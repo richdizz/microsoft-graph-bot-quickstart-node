@@ -1,7 +1,7 @@
 {
-  "name": "microsoft-graph-bot-quickstart-luis-node",
+  "name": "microsoft-graph-bot-quickstart-node",
   "version": "1.0.0",
-  "description": "Quickstart template for building a bot that connects to the Microsoft Graph and uses LUIS with NodeJS",
+  "description": "Quickstart template for building a bot that connects to the Microsoft Graph with NodeJS",
   "main": "server.js",
   "scripts": {
     "init": "npm install",
